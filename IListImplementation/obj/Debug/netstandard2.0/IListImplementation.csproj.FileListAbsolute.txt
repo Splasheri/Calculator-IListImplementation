@@ -1,0 +1,8 @@
+C:\Users\splas\Desktop\Calculator\IListImplementation\bin\Debug\netstandard2.0\IListImplementation.deps.json
+C:\Users\splas\Desktop\Calculator\IListImplementation\bin\Debug\netstandard2.0\IListImplementation.dll
+C:\Users\splas\Desktop\Calculator\IListImplementation\bin\Debug\netstandard2.0\IListImplementation.pdb
+C:\Users\splas\Desktop\Calculator\IListImplementation\obj\Debug\netstandard2.0\IListImplementation.csprojAssemblyReference.cache
+C:\Users\splas\Desktop\Calculator\IListImplementation\obj\Debug\netstandard2.0\IListImplementation.AssemblyInfoInputs.cache
+C:\Users\splas\Desktop\Calculator\IListImplementation\obj\Debug\netstandard2.0\IListImplementation.AssemblyInfo.cs
+C:\Users\splas\Desktop\Calculator\IListImplementation\obj\Debug\netstandard2.0\IListImplementation.dll
+C:\Users\splas\Desktop\Calculator\IListImplementation\obj\Debug\netstandard2.0\IListImplementation.pdb
